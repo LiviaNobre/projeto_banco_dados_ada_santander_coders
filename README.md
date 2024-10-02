@@ -1,8 +1,3 @@
----
-title: Projeto Final - Banco de Dados
-
----
-
 # Projeto Final | Banco de Dados I
 
 Projeto final do módulo de Banco de Dados I da trilha de Data Science do Programa Santander Coders 2024.2 oferecido pela AdaTech em parceria com o Santander Open Acadamy.
